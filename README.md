@@ -15,6 +15,6 @@
 
 <div align="center">
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={joyhyun99})](https://solved.ac/{joyhyun99})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyhyun99)](https://solved.ac/joyhyun99)
 
 </div>
