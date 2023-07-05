@@ -2,13 +2,17 @@
 
 
 <div align="center">
-  <h4> '연세대학교 데이터사이언스 학회 DSL "실전 데이터사이언스 스터디" 깃허브 repository입니다.' <h4/>
+  	<h4> '연세대학교 데이터사이언스 학회 DSL "실전 데이터사이언스 스터디" 깃허브 repository입니다.' <h4/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
 	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+	<br>
+	  
+	<a href="https://github.com/a2ran/prac_ds/tree/main/week1">Week1 : Titanic Classification with DistilBERT + XGBoost</a>
+ 	<br><br><br>
 </div>
-
+	 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2ran&layout=compact"><br>
 </div>
