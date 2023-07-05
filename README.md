@@ -3,7 +3,18 @@
 
 <div align="center">
   <h4> '연세대학교 데이터사이언스 학회 DSL "실전 데이터사이언스 스터디" 깃허브 repository입니다.' <h4/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+</div>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2ran&layout=compact"><br>
+</div>
+
+<div align="center">
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={joyhyun99})](https://solved.ac/{joyhyun99})
+
 </div>
