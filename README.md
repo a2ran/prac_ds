@@ -12,6 +12,7 @@
 	  
 <h3>Week1 : <a href="https://github.com/a2ran/prac_ds/tree/main/week1">Titanic Classification with DistilBERT + XGBoost</a></h3>
 <h4>Youtube Link : <a href = "https://www.youtube.com/watch?v=Wj__yYnd5DQ"> dsl_prac_week1 </a></h4>
+<h4>Youtube Link : <a href = "https://youtu.be/1bpPseP-Za8"> dsl_prac_week1 lecture </a></h4>
 <br><br><br>
 
 </div>
