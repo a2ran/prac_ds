@@ -16,6 +16,7 @@
 <br>
 <h3>Week2 : <a href="https://github.com/a2ran/prac_ds/tree/main/week2/requirements">MNIST Autoencoder with Pytorch Lightning</a></h3>
 <h4>Youtube Link : <a href = "https://www.youtube.com/watch?v=-EDE4Op1UiM"> dsl_prac_week2 </a></h4>
+<h4>Youtube Link : <a href = "https://www.youtube.com/watch?v=A7ubwGv1zO4"> dsl_prac_week2 lecture </a></h4>
 <br><br><br>
 
 </div>
